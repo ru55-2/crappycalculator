@@ -1,5 +1,5 @@
 {
-    "name": "Score Sync",
+    "name": "Calculator",
     "short_name": "ScoreSync",
     "description": "app version of Score Sync",
     "start_url": "/volleyball",

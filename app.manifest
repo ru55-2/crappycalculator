@@ -1,6 +1,6 @@
 {
     "name": "Calculator",
-    "short_name": "ScoreSync",
+    "short_name": "Calculator",
     "description": "app version of Score Sync",
     "start_url": "/crappycalculator",
     "display": "standalone",

@@ -1,0 +1,9 @@
+{
+    "name": "Score Sync",
+    "short_name": "ScoreSync",
+    "description": "app version of Score Sync",
+    "start_url": "/volleyball",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }

@@ -1,3 +1,15 @@
+//check if the browser supports service worker
+if ('serviceWorker' in navigator){
+    navigator.serviceWorker
+    //rerister the path to the service worker
+    .register('/sw.js')
+    .then(function(){
+        console.log('Service Worker Registered');
+    });
+  }
+
+
+
 // Variable to store the current display value
 let display = "0";
 

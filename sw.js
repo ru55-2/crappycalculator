@@ -6,10 +6,8 @@ const cacheName = 'v1'
 
 const cacheAssets = [
     'index.html',
-    'home.html',
-    'style.css',
-    'game.html',
-   'login.html'
+    'main.js',
+    'styles.css'
 ]
 
 
